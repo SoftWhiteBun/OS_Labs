@@ -1,5 +1,0 @@
-green_tea/
-oolong/
-puer/
-red_tea/
-tea.txt
